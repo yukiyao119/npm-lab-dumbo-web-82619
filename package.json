@@ -4,7 +4,7 @@
   "description": "A code-along for creating package.json files",
   "main": "index.js",
   "scripts": {
-    "test": "n/a"
+    "test": "echo 'Hello World!'"
   },
   "repository": {
     "type": "git",
